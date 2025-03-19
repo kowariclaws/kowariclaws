@@ -3,4 +3,4 @@ newbie linux user
 procrastinating learning how to program
 stupid weeb
 
-![hippo](https://video.twimg.com/tweet_video/GmWu8PeXgAEMqpw.mp4)
+![nom](https://github.com/kowariclaws/kowariclaws/blob/main/nom.gif)
