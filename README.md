@@ -3,8 +3,6 @@
    <br />trying to learn c++
  <br />stupid weeb
 
- testing :\)
-
 ![nom](https://github.com/kowariclaws/kowariclaws/blob/b8c54ce5c9c996cd86cc3ef9e53c987a0dfd5103/gifs/nom.gif) <br />
 
 [youtube](https://www.youtube.com/@kowariclaws) <br />
