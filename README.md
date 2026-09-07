@@ -1,10 +1,4 @@
- <br />hey, im kowari/lexi !!
-  <br />newbie linux user 
-   <br />trying to learn c++
- <br />stupid weeb
+# hey, im kowari.
 
-![nom](https://github.com/kowariclaws/kowariclaws/blob/b8c54ce5c9c996cd86cc3ef9e53c987a0dfd5103/gifs/nom.gif) <br />
-
-[youtube](https://www.youtube.com/@kowariclaws) <br />
-
-[twitter](https://x.com/kowariclaws) <br />
+i like a lot of things, mainly touhou at the moment.<br/>
+i dont know how to do anything but i still try anyways :)
